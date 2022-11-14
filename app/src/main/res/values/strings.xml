@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RepasoEjercicioFutbol</string>
+
+    <string name="crear">Crear</string>
+    <string name="cancelar">Cancelar</string>
+    <string-array name="sp_Equipo1">
+        <item>Selecciona un equipo:</item>
+        <item>Real Madrid</item>
+        <item>Valencia CF</item>
+        <item>FC Barcelona</item>
+        <item>Sevilla FC</item>
+        <item>Real Betis</item>
+        <item>Real Sociedad</item>
+        <item>Atletico de Madrid</item>
+        <item>Villarreal</item>
+    </string-array>
+</resources>
